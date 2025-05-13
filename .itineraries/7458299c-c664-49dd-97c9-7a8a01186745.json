@@ -1,0 +1,247 @@
+{
+  "id": "7458299c-c664-49dd-97c9-7a8a01186745",
+  "userInput": {
+    "departureFrom": "Delhi",
+    "destination": "Goa",
+    "startDate": "2025-04-28",
+    "endDate": "2025-05-01",
+    "interests": "General sightseeing and local experiences",
+    "budget": "moderate",
+    "travelGroup": "couple"
+  },
+  "data": {
+    "tripSummary": {
+      "destination": "Goa",
+      "duration": 4,
+      "startDate": "2025-04-28",
+      "endDate": "2025-05-01",
+      "budget": "₹3,000-7,000 per day",
+      "travelGroup": "couple"
+    },
+    "transportation": {
+      "toDestination": [
+        {
+          "type": "Flight",
+          "details": "Direct flights available from Delhi to Goa (Dabolim Airport)",
+          "estimatedCost": "₹7,000 - ₹12,000"
+        },
+        {
+          "type": "Train",
+          "details": "Overnight trains connect Delhi to Goa (Madgaon Station)",
+          "estimatedCost": "₹1,500 - ₹2,500"
+        }
+      ],
+      "localOptions": [
+        {
+          "type": "Scooter Rental",
+          "details": "Most popular way to get around Goa",
+          "estimatedCost": "₹300-500 per day"
+        },
+        {
+          "type": "Taxi/Cab",
+          "details": "Available through apps like Ola and Uber",
+          "estimatedCost": "₹15-20 per km"
+        },
+        {
+          "type": "Local Bus",
+          "details": "Economical option for getting around",
+          "estimatedCost": "₹10-50 per trip"
+        }
+      ]
+    },
+    "accommodation": [
+      {
+        "name": "Beach Resort in North Goa",
+        "description": "Comfortable 3-star accommodation near Calangute Beach",
+        "priceRange": "₹3,000-6,000 per night",
+        "location": "Calangute, North Goa"
+      },
+      {
+        "name": "Boutique Hotel in South Goa",
+        "description": "Peaceful property with beautiful views and amenities",
+        "priceRange": "₹4,000-8,000 per night",
+        "location": "Palolem, South Goa"
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2025-04-28",
+        "morning": {
+          "activity": "Calangute Beach Visit",
+          "location": "Calangute, North Goa",
+          "details": "Enjoy the sun and sand at one of Goa's most popular beaches",
+          "estimatedCost": "₹500 (beach activities)"
+        },
+        "lunch": {
+          "recommendation": "Souza Lobo",
+          "cuisine": "Goan Seafood",
+          "priceRange": "₹800-1,200",
+          "location": "Calangute Beach Road"
+        },
+        "afternoon": {
+          "activity": "Water Sports at Baga Beach",
+          "location": "Baga Beach",
+          "details": "Try parasailing, jet skiing, or banana boat rides",
+          "estimatedCost": "₹1,500 (for 2-3 activities)"
+        },
+        "dinner": {
+          "recommendation": "Britto's",
+          "cuisine": "Multi-cuisine with seafood specialties",
+          "priceRange": "₹1,000-1,500",
+          "location": "Baga Beach"
+        },
+        "evening": {
+          "activity": "Tito's Lane Nightlife",
+          "location": "Baga, North Goa",
+          "details": "Experience Goa's famous nightlife at the popular clubs",
+          "estimatedCost": "₹1,000-2,000 (entry and drinks)"
+        }
+      },
+      {
+        "day": 2,
+        "date": "2025-04-29",
+        "morning": {
+          "activity": "Old Goa Churches Tour",
+          "location": "Old Goa",
+          "details": "Visit the UNESCO World Heritage churches including Basilica of Bom Jesus",
+          "estimatedCost": "₹500 (transportation and donations)"
+        },
+        "lunch": {
+          "recommendation": "Mum's Kitchen",
+          "cuisine": "Authentic Goan",
+          "priceRange": "₹700-1,000",
+          "location": "Panjim"
+        },
+        "afternoon": {
+          "activity": "Panjim City Walk",
+          "location": "Fontainhas, Panjim",
+          "details": "Explore the colorful Latin Quarter and Portuguese architecture",
+          "estimatedCost": "₹300 (including small purchases)"
+        },
+        "dinner": {
+          "recommendation": "Fisherman's Wharf",
+          "cuisine": "Seafood",
+          "priceRange": "₹1,200-1,800",
+          "location": "Ribandar, Near Panjim"
+        },
+        "evening": {
+          "activity": "Sunset River Cruise",
+          "location": "Mandovi River",
+          "details": "Enjoy cultural performances on a sunset cruise",
+          "estimatedCost": "₹500 per person"
+        }
+      },
+      {
+        "day": 3,
+        "date": "2025-04-30",
+        "morning": {
+          "activity": "Dudhsagar Waterfall Trip",
+          "location": "Mollem National Park",
+          "details": "Visit one of India's tallest waterfalls (jeep safari)",
+          "estimatedCost": "₹2,000 per person (organized tour)"
+        },
+        "lunch": {
+          "recommendation": "Spice Plantation Lunch",
+          "cuisine": "Traditional Goan Thali",
+          "priceRange": "₹500-700",
+          "location": "Ponda Spice Plantation"
+        },
+        "afternoon": {
+          "activity": "Spice Plantation Tour",
+          "location": "Ponda",
+          "details": "Learn about spices and their cultivation",
+          "estimatedCost": "₹400 per person (tour fee)"
+        },
+        "dinner": {
+          "recommendation": "Martin's Corner",
+          "cuisine": "Goan and Portuguese",
+          "priceRange": "₹1,000-1,500",
+          "location": "Betalbatim, South Goa"
+        },
+        "evening": {
+          "activity": "Relaxing Beach Walk",
+          "location": "Colva Beach",
+          "details": "Enjoy a peaceful evening by the sea",
+          "estimatedCost": "Free"
+        }
+      },
+      {
+        "day": 4,
+        "date": "2025-05-01",
+        "morning": {
+          "activity": "Anjuna Flea Market",
+          "location": "Anjuna, North Goa",
+          "details": "Shop for souvenirs, clothes, and handicrafts at the famous market (Wednesdays only)",
+          "estimatedCost": "₹1,000-2,000 (shopping)"
+        },
+        "lunch": {
+          "recommendation": "Curlies Beach Shack",
+          "cuisine": "Beach Cafe Food",
+          "priceRange": "₹600-900",
+          "location": "Anjuna Beach"
+        },
+        "afternoon": {
+          "activity": "Vagator and Chapora Fort",
+          "location": "Vagator, North Goa",
+          "details": "Visit the fort and enjoy views of the Arabian Sea",
+          "estimatedCost": "₹300 (transportation)"
+        },
+        "dinner": {
+          "recommendation": "Thalassa",
+          "cuisine": "Greek and Mediterranean",
+          "priceRange": "₹1,500-2,500",
+          "location": "Vagator"
+        },
+        "evening": {
+          "activity": "Sunset at Arambol Beach",
+          "location": "Arambol, North Goa",
+          "details": "Experience the hippie culture and drum circles",
+          "estimatedCost": "₹500 (transportation and refreshments)"
+        }
+      }
+    ],
+    "highlights": [
+      {
+        "name": "Beaches of Goa",
+        "description": "From lively Baga to peaceful Palolem, Goa's beaches offer something for everyone",
+        "type": "Natural Beauty"
+      },
+      {
+        "name": "Portuguese Heritage",
+        "description": "Explore centuries of Portuguese influence in architecture and culture",
+        "type": "Cultural"
+      },
+      {
+        "name": "Seafood Cuisine",
+        "description": "Fresh catches prepared with Goan spices and Portuguese techniques",
+        "type": "Culinary"
+      },
+      {
+        "name": "Dudhsagar Falls",
+        "description": "One of India's tallest waterfalls, surrounded by lush forest",
+        "type": "Adventure"
+      }
+    ],
+    "estimatedTotalCost": "₹40,000"
+  },
+  "images": [
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Calangute+Beach",
+      "alt": "Calangute Beach, Goa"
+    },
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Old+Goa+Churches",
+      "alt": "Historic churches in Old Goa"
+    },
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Dudhsagar+Falls",
+      "alt": "Dudhsagar Waterfall"
+    },
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Goan+Cuisine",
+      "alt": "Traditional Goan seafood"
+    }
+  ],
+  "createdAt": "2025-04-28T04:30:48.561Z"
+}

@@ -1,0 +1,213 @@
+{
+  "id": "9201753e-67eb-452b-85e3-4cf62cb61c0e",
+  "userInput": {
+    "departureFrom": "Delhi",
+    "destination": "Delhi",
+    "startDate": "2025-04-28",
+    "endDate": "2025-04-30",
+    "interests": "General sightseeing and local experiences",
+    "budget": "moderate",
+    "travelGroup": "family"
+  },
+  "data": {
+    "tripSummary": {
+      "destination": "Delhi",
+      "duration": 3,
+      "startDate": "2025-04-28",
+      "endDate": "2025-04-30",
+      "budget": "₹3,000-7,000 per day",
+      "travelGroup": "family"
+    },
+    "transportation": {
+      "toDestination": [
+        {
+          "type": "Flight",
+          "details": "Direct flights available to Delhi from major Indian cities",
+          "estimatedCost": "₹5,000 - ₹10,000"
+        },
+        {
+          "type": "Train",
+          "details": "Well-connected by railways to all major cities",
+          "estimatedCost": "₹1,000 - ₹2,500"
+        }
+      ],
+      "localOptions": [
+        {
+          "type": "Delhi Metro",
+          "details": "Extensive network covering most tourist spots",
+          "estimatedCost": "₹20-60 per trip"
+        },
+        {
+          "type": "Auto Rickshaw",
+          "details": "Convenient for short distances",
+          "estimatedCost": "₹30-150 per trip"
+        },
+        {
+          "type": "Taxi/Cab",
+          "details": "Available through apps like Ola and Uber",
+          "estimatedCost": "₹15-20 per km"
+        }
+      ]
+    },
+    "accommodation": [
+      {
+        "name": "Hotel in Connaught Place",
+        "description": "Central location with easy access to major attractions",
+        "priceRange": "₹3,000-6,000 per night",
+        "location": "Connaught Place, Central Delhi"
+      },
+      {
+        "name": "Karol Bagh Hotel",
+        "description": "Mid-range accommodation in a popular shopping area",
+        "priceRange": "₹2,000-4,000 per night",
+        "location": "Karol Bagh, Central Delhi"
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2025-04-28",
+        "morning": {
+          "activity": "Red Fort Visit",
+          "location": "Old Delhi",
+          "details": "Explore the historic Mughal fort complex",
+          "estimatedCost": "₹500 (entry tickets for family)"
+        },
+        "lunch": {
+          "recommendation": "Karim's",
+          "cuisine": "Mughlai",
+          "priceRange": "₹800-1,200",
+          "location": "Near Jama Masjid, Old Delhi"
+        },
+        "afternoon": {
+          "activity": "Jama Masjid and Chandni Chowk",
+          "location": "Old Delhi",
+          "details": "Visit India's largest mosque and explore the bustling market",
+          "estimatedCost": "₹300 (donations and rickshaw rides)"
+        },
+        "dinner": {
+          "recommendation": "Paranthe Wali Gali",
+          "cuisine": "North Indian Street Food",
+          "priceRange": "₹500-800",
+          "location": "Chandni Chowk, Old Delhi"
+        },
+        "evening": {
+          "activity": "Light and Sound Show at Red Fort",
+          "location": "Red Fort, Old Delhi",
+          "details": "Learn about the fort's history through an engaging show",
+          "estimatedCost": "₹600 (tickets for family)"
+        }
+      },
+      {
+        "day": 2,
+        "date": "2025-04-29",
+        "morning": {
+          "activity": "Qutub Minar Complex",
+          "location": "Mehrauli, South Delhi",
+          "details": "Explore the UNESCO World Heritage Site with the tallest brick minaret",
+          "estimatedCost": "₹600 (entry tickets for family)"
+        },
+        "lunch": {
+          "recommendation": "Lodi - The Garden Restaurant",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹1,500-2,500",
+          "location": "Lodhi Road"
+        },
+        "afternoon": {
+          "activity": "Humayun's Tomb",
+          "location": "Nizamuddin East",
+          "details": "Visit the magnificent tomb that inspired the Taj Mahal",
+          "estimatedCost": "₹600 (entry tickets for family)"
+        },
+        "dinner": {
+          "recommendation": "Bukhara, ITC Maurya",
+          "cuisine": "North Indian",
+          "priceRange": "₹3,000-5,000",
+          "location": "Diplomatic Enclave"
+        },
+        "evening": {
+          "activity": "Dilli Haat Shopping",
+          "location": "INA, South Delhi",
+          "details": "Shop for handicrafts from across India",
+          "estimatedCost": "₹1,000-2,000 (entry and shopping)"
+        }
+      },
+      {
+        "day": 3,
+        "date": "2025-04-30",
+        "morning": {
+          "activity": "India Gate and Rashtrapati Bhavan",
+          "location": "Central Delhi",
+          "details": "Visit the war memorial and see the President's residence",
+          "estimatedCost": "Free (transportation ₹300)"
+        },
+        "lunch": {
+          "recommendation": "United Coffee House",
+          "cuisine": "Continental and Indian",
+          "priceRange": "₹1,200-2,000",
+          "location": "Connaught Place"
+        },
+        "afternoon": {
+          "activity": "National Museum",
+          "location": "Janpath",
+          "details": "Explore India's rich cultural heritage",
+          "estimatedCost": "₹500 (entry tickets for family)"
+        },
+        "dinner": {
+          "recommendation": "Saravana Bhavan",
+          "cuisine": "South Indian",
+          "priceRange": "₹800-1,200",
+          "location": "Connaught Place"
+        },
+        "evening": {
+          "activity": "Akshardham Temple Light Show",
+          "location": "Noida Mor",
+          "details": "Spectacular fountain and light show at the temple complex",
+          "estimatedCost": "₹800 (tickets for family)"
+        }
+      }
+    ],
+    "highlights": [
+      {
+        "name": "Mughal Architecture",
+        "description": "Red Fort, Humayun's Tomb, and Jama Masjid showcase the grandeur of Mughal design",
+        "type": "Historical"
+      },
+      {
+        "name": "Street Food",
+        "description": "Delhi is famous for its diverse street food, from chaat to kebabs",
+        "type": "Culinary"
+      },
+      {
+        "name": "Shopping Markets",
+        "description": "From luxury malls to traditional bazaars like Chandni Chowk",
+        "type": "Shopping"
+      },
+      {
+        "name": "Religious Diversity",
+        "description": "Temples, mosques, churches, and gurudwaras representing India's religious tapestry",
+        "type": "Cultural"
+      }
+    ],
+    "estimatedTotalCost": "₹30,000"
+  },
+  "images": [
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Red+Fort",
+      "alt": "Red Fort, Delhi"
+    },
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Qutub+Minar",
+      "alt": "Qutub Minar, Delhi"
+    },
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=India+Gate",
+      "alt": "India Gate, Delhi"
+    },
+    {
+      "url": "/placeholder.svg?height=400&width=600&text=Delhi+Street+Food",
+      "alt": "Famous Delhi street food"
+    }
+  ],
+  "createdAt": "2025-04-28T05:04:24.830Z"
+}

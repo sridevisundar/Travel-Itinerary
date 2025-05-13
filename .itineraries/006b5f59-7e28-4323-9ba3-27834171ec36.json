@@ -1,0 +1,349 @@
+{
+  "id": "006b5f59-7e28-4323-9ba3-27834171ec36",
+  "userInput": {
+    "departureFrom": "Delhi",
+    "destination": "Kolkata",
+    "startDate": "2025-04-28",
+    "endDate": "2025-05-05",
+    "interests": "Beaches, local cuisine, and cultural experiences",
+    "budget": "moderate",
+    "travelGroup": "couple"
+  },
+  "data": {
+    "tripSummary": {
+      "destination": "Kolkata",
+      "duration": 7,
+      "startDate": "2025-04-28",
+      "endDate": "2025-05-05",
+      "budget": "₹3,000-7,000 per day",
+      "travelGroup": "couple"
+    },
+    "transportation": {
+      "toDestination": [
+        {
+          "type": "Flight",
+          "details": "Direct flights available from Delhi to Kolkata",
+          "estimatedCost": "₹7,000 - ₹12,000"
+        },
+        {
+          "type": "Train",
+          "details": "Regular trains connect Delhi to Kolkata",
+          "estimatedCost": "₹1,500 - ₹2,500"
+        }
+      ],
+      "localOptions": [
+        {
+          "type": "Auto Rickshaw",
+          "details": "Convenient for short distances within the city",
+          "estimatedCost": "₹30 per km"
+        },
+        {
+          "type": "Taxi/Cab",
+          "details": "Available through apps like Ola and Uber",
+          "estimatedCost": "₹15-20 per km"
+        },
+        {
+          "type": "Local Bus",
+          "details": "Economical option for getting around",
+          "estimatedCost": "₹10-50 per trip"
+        }
+      ]
+    },
+    "accommodation": [
+      {
+        "name": "Mid-range Hotel in Kolkata",
+        "description": "Comfortable 3-star accommodation with all necessary amenities",
+        "priceRange": "₹3,000-6,000 per night",
+        "location": "Central Kolkata"
+      },
+      {
+        "name": "Kolkata Resort",
+        "description": "Beautiful property with great amenities",
+        "priceRange": "₹4,000-8,000 per night",
+        "location": "Prime location in Kolkata"
+      }
+    ],
+    "itinerary": [
+      {
+        "day": 1,
+        "date": "2025-04-28",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 1",
+          "location": "Kolkata Location 1A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 1",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 1",
+          "location": "Kolkata Location 1B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 1",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 1",
+          "location": "Kolkata Location 1C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      },
+      {
+        "day": 2,
+        "date": "2025-04-29",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 2",
+          "location": "Kolkata Location 2A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 2",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 2",
+          "location": "Kolkata Location 2B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 2",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 2",
+          "location": "Kolkata Location 2C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      },
+      {
+        "day": 3,
+        "date": "2025-04-30",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 3",
+          "location": "Kolkata Location 3A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 3",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 3",
+          "location": "Kolkata Location 3B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 3",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 3",
+          "location": "Kolkata Location 3C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      },
+      {
+        "day": 4,
+        "date": "2025-05-01",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 4",
+          "location": "Kolkata Location 4A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 4",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 4",
+          "location": "Kolkata Location 4B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 4",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 4",
+          "location": "Kolkata Location 4C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      },
+      {
+        "day": 5,
+        "date": "2025-05-02",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 5",
+          "location": "Kolkata Location 5A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 5",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 5",
+          "location": "Kolkata Location 5B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 5",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 5",
+          "location": "Kolkata Location 5C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      },
+      {
+        "day": 6,
+        "date": "2025-05-03",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 6",
+          "location": "Kolkata Location 6A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 6",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 6",
+          "location": "Kolkata Location 6B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 6",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 6",
+          "location": "Kolkata Location 6C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      },
+      {
+        "day": 7,
+        "date": "2025-05-04",
+        "morning": {
+          "activity": "Explore Kolkata - Morning Activity 7",
+          "location": "Kolkata Location 7A",
+          "details": "Enjoy the local sights and sounds",
+          "estimatedCost": "₹1,000"
+        },
+        "lunch": {
+          "recommendation": "Local Restaurant 7",
+          "cuisine": "Indian",
+          "priceRange": "₹500-1,000",
+          "location": "Kolkata Food Area"
+        },
+        "afternoon": {
+          "activity": "Kolkata Afternoon Activity 7",
+          "location": "Kolkata Location 7B",
+          "details": "Continue exploring the area",
+          "estimatedCost": "₹1,200"
+        },
+        "dinner": {
+          "recommendation": "Evening Dining Option 7",
+          "cuisine": "Multi-cuisine",
+          "priceRange": "₹700-1,400",
+          "location": "Kolkata Dining District"
+        },
+        "evening": {
+          "activity": "Kolkata Evening Entertainment 7",
+          "location": "Kolkata Location 7C",
+          "details": "Enjoy the nightlife or cultural show",
+          "estimatedCost": "₹1,500"
+        }
+      }
+    ],
+    "highlights": [
+      {
+        "name": "Kolkata Highlight 1",
+        "description": "A must-visit attraction in the area",
+        "type": "Attraction"
+      },
+      {
+        "name": "Kolkata Highlight 2",
+        "description": "Famous local experience",
+        "type": "Experience"
+      },
+      {
+        "name": "Kolkata Highlight 3",
+        "description": "Popular with visitors",
+        "type": "Landmark"
+      },
+      {
+        "name": "Kolkata Highlight 4",
+        "description": "Don't miss this spot",
+        "type": "Hidden Gem"
+      }
+    ],
+    "estimatedTotalCost": "₹35,000"
+  },
+  "images": [
+    {
+      "url": "https://images.unsplash.com/photo-1586708891929-9917e5b60e2f",
+      "alt": "Kolkata view 1"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1576485346562-9796f39481c5",
+      "alt": "Kolkata view 2"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1605379399645-d59f2444d8d2",
+      "alt": "Kolkata view 3"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1603187684957-04d219c2f352",
+      "alt": "Kolkata view 4"
+    }
+  ],
+  "createdAt": "2025-04-28T04:36:37.457Z"
+}
